@@ -12,8 +12,9 @@ namespace Listing_01_01
         //Main method of the program
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             //Displaying message in the Console window
-            Console.WriteLine("Learning C# language");
+            Console.WriteLine("Изучаем язык C#");
         }
     }
 }
