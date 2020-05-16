@@ -1,0 +1,7 @@
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\Listing_01_04\Listing_01_04\bin\Debug\Listing_01_04.exe.config
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\Listing_01_04\Listing_01_04\bin\Debug\Listing_01_04.exe
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\Listing_01_04\Listing_01_04\bin\Debug\Listing_01_04.pdb
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\Listing_01_04\Listing_01_04\obj\Debug\Listing_01_04.csprojAssemblyReference.cache
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\Listing_01_04\Listing_01_04\obj\Debug\Listing_01_04.csproj.CoreCompileInputs.cache
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\Listing_01_04\Listing_01_04\obj\Debug\Listing_01_04.exe
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\Listing_01_04\Listing_01_04\obj\Debug\Listing_01_04.pdb
