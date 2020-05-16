@@ -1,0 +1,7 @@
+D:\VasilievC#\Listing_01_01\Listing_01_01\bin\Debug\Listing_01_01.exe.config
+D:\VasilievC#\Listing_01_01\Listing_01_01\bin\Debug\Listing_01_01.exe
+D:\VasilievC#\Listing_01_01\Listing_01_01\bin\Debug\Listing_01_01.pdb
+D:\VasilievC#\Listing_01_01\Listing_01_01\obj\Debug\Listing_01_01.csprojAssemblyReference.cache
+D:\VasilievC#\Listing_01_01\Listing_01_01\obj\Debug\Listing_01_01.csproj.CoreCompileInputs.cache
+D:\VasilievC#\Listing_01_01\Listing_01_01\obj\Debug\Listing_01_01.exe
+D:\VasilievC#\Listing_01_01\Listing_01_01\obj\Debug\Listing_01_01.pdb
