@@ -1,0 +1,7 @@
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\ConsoleVersion\ConsoleVersion\bin\Debug\ConsoleVersion.exe.config
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\ConsoleVersion\ConsoleVersion\bin\Debug\ConsoleVersion.exe
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\ConsoleVersion\ConsoleVersion\bin\Debug\ConsoleVersion.pdb
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\ConsoleVersion\ConsoleVersion\obj\Debug\ConsoleVersion.csprojAssemblyReference.cache
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\ConsoleVersion\ConsoleVersion\obj\Debug\ConsoleVersion.csproj.CoreCompileInputs.cache
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\ConsoleVersion\ConsoleVersion\obj\Debug\ConsoleVersion.exe
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\ConsoleVersion\ConsoleVersion\obj\Debug\ConsoleVersion.pdb

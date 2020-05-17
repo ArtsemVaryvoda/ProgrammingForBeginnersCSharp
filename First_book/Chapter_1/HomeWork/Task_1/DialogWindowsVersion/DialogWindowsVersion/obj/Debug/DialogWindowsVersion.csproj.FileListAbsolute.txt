@@ -1,0 +1,7 @@
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\DialogWindowsVersion\DialogWindowsVersion\bin\Debug\DialogWindowsVersion.exe.config
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\DialogWindowsVersion\DialogWindowsVersion\bin\Debug\DialogWindowsVersion.exe
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\DialogWindowsVersion\DialogWindowsVersion\bin\Debug\DialogWindowsVersion.pdb
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\DialogWindowsVersion\DialogWindowsVersion\obj\Debug\DialogWindowsVersion.csprojAssemblyReference.cache
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\DialogWindowsVersion\DialogWindowsVersion\obj\Debug\DialogWindowsVersion.csproj.CoreCompileInputs.cache
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\DialogWindowsVersion\DialogWindowsVersion\obj\Debug\DialogWindowsVersion.exe
+D:\ProgrammingForBeginnersCSharp\First_book\Chapter_1\HomeWork\Task_1\DialogWindowsVersion\DialogWindowsVersion\obj\Debug\DialogWindowsVersion.pdb
